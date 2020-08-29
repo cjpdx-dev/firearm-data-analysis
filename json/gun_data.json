@@ -15,10 +15,8 @@
 			"nov": [1004333],
 			"dec": [1253354]
 			}
-	}
-}
+	},
 
-{
 	"2000":{
 		"monthly_data":{
 			"description": "gun_bg_checks, ...",
@@ -35,10 +33,8 @@
 			"nov": [898598],
 			"dec": [1000962]
 		}
-	}
-}
+	},
 
-{
 	"2001":{
 		"monthly_data":{
 			"description": "gun_bg_checks, ...",
@@ -55,10 +51,8 @@
 			"nov": [983186],
 			"dec": [1062559]
 		}
-	}
-}
+	},
 
-{
 	"2002":{
 		"monthly_data":{
 			"description": "gun_bg_checks, ...",
@@ -75,10 +69,8 @@
 			"nov": [887647],
 			"dec": [974059]
 		}
-	}
-}
+	},
 
-{
 	"2003":{
 		"monthly_data":{
 			"description": "gun_bg_checks, ...",
@@ -95,10 +87,8 @@
 			"nov": [842932],
 			"dec": [1008118]
 		}
-	}
-}
+	},
 
-{
 	"2004":{
 		"monthly_data":{
 			"description": "gun_bg_checks, ...",
@@ -115,10 +105,8 @@
 			"nov": [890754],
 			"dec": [1073701]
 		}
-	}
-}
+	},
 
-{
 	"2005":{
 		"monthly_data":{
 			"description": "gun_bg_checks, ...",
@@ -135,10 +123,8 @@
 			"nov": [927419],
 			"dec": [1164582]
 		}
-	}
-}
+	},
 
-{
 	"2006":{
 		"monthly_data":{
 			"description": "gun_bg_checks, ...",
@@ -155,10 +141,8 @@
 			"nov": [1045194],
 			"dec": [1253840]
 		}
-	}
-}
+	},
 
-{
 	"2007":{
 		"monthly_data":{
 			"description": "gun_bg_checks, ...",
@@ -175,10 +159,8 @@
 			"nov": [1079923],
 			"dec": [1230525]
 		}
-	}
-}
+	},
 
-{
 	"2008":{
 		"monthly_data":{
 			"description": "gun_bg_checks, ...",
@@ -195,10 +177,8 @@
 			"nov": [1529635],
 			"dec": [1523426]
 		}
-	}
-}
+	},
 
-{
 	"2009":{
 		"monthly_data":{
 			"description": "gun_bg_checks, ...",
@@ -215,10 +195,8 @@
 			"nov": [1223252],
 			"dec": [1407155]
 		}
-	}
-}
+	},
 
-{
 	"2010":{
 		"monthly_data":{
 			"description": "gun_bg_checks, ...",
@@ -235,10 +213,8 @@
 			"nov": [1296223],
 			"dec": [1521192]
 		}
-	}
-}
+	},
 
-{
 	"2011":{
 		"monthly_data":{
 			"description": "gun_bg_checks, ...",
@@ -255,10 +231,8 @@
 			"nov": [1534414],
 			"dec": [1862327]
 		}
-	}
-}
+	},
 
-{
 	"2012":{
 		"monthly_data":{
 			"description": "gun_bg_checks, ...",
@@ -275,10 +249,8 @@
 			"nov": [2006919],
 			"dec": [2783765]
 		}
-	}
-}
+	},
 
-{
 	"2013":{
 		"monthly_data":{
 			"description": "gun_bg_checks, ...",
@@ -295,10 +267,8 @@
 			"nov": [1813643],
 			"dec": [2041528]
 		}
-	}
-}
+	},
 
-{
 	"2014":{
 		"monthly_data":{
 			"description": "gun_bg_checks, ...",
@@ -315,10 +285,8 @@
 			"nov": [1803397],
 			"dec": [2309684]
 		}
-	}
-}
+	},
 
-{
 	"2015":{
 		"monthly_data":{
 			"description": "gun_bg_checks, ...",
@@ -335,10 +303,8 @@
 			"nov": [2243030],
 			"dec": [3314594]
 		}
-	}
-}
+	},
 
-{
 	"2016":{
 		"monthly_data":{
 			"description": "gun_bg_checks, ...",
@@ -355,10 +321,8 @@
 			"nov": [2561281],
 			"dec": [2771159]
 		}
-	}
-}
+	},
 
-{
 	"2017":{
 		"monthly_data":{
 			"description": "gun_bg_checks, ...",
@@ -375,10 +339,8 @@
 			"nov": [2382788],
 			"dec": [2586138]
 		}
-	}
-}
+	},
 
-{
 	"2018":{
 		"monthly_data":{
 			"description": "gun_bg_checks, ...",
@@ -395,10 +357,8 @@
 			"nov": [2393043],
 			"dec": [2543385]
 		}
-	}
-}
+	},
 
-{
 	"2019":{
 		"monthly_data":{
 			"description": "gun_bg_checks, ...",
@@ -415,10 +375,8 @@
 			"nov": [2574752],
 			"dec": [2936894]
 		}
-	}
-}
+	},
 
-{
 	"2020":{
 		"monthly_data":{
 			"description": "gun_bg_checks, ...",
@@ -436,4 +394,5 @@
 			"dec": null
 		}
 	}
+
 }
