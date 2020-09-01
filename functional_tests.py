@@ -1,5 +1,4 @@
 import json
-import load_data
 import time
 import unittest
 
@@ -10,7 +9,6 @@ class JsonTest(unittest.TestCase):
         # Test if file is open
         self.data = json.load(self.f)
         # Test if json data is loaded
-                 
 
     def tearDown(self):
 
@@ -18,3 +16,5 @@ class JsonTest(unittest.TestCase):
 
 if __name__ == '__main__':
 	unittest.main(warnings='ignore')
+
+

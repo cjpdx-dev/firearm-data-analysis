@@ -1,0 +1,55 @@
+{
+    "year": 2006,
+
+	"monthly_data":[
+        {
+            "jan": [
+                {"gun_bg_checks": 775518}
+            ],
+
+            "feb": [
+                {"gun_bg_checks": 820679}
+            ],
+
+            "mar": [
+                {"gun_bg_checks": 845219}
+            ],
+
+            "apr": [
+                {"gun_bg_checks": 700373}
+            ],
+
+            "may": [
+                {"gun_bg_checks": 626270}
+            ],
+
+            "jun": [
+                {"gun_bg_checks": 616097}
+            ],
+
+            "jul": [
+                {"gun_bg_checks": 631156}
+            ],
+
+            "aug": [
+                {"gun_bg_checks": 838070}
+            ],
+
+            "sep": [
+                {"gun_bg_checks": 919487}
+            ],
+
+            "oct": [
+                {"gun_bg_checks": 970030}
+            ],
+
+            "nov": [
+                {"gun_bg_checks": 1045194}
+            ],
+
+            "dec": [
+                {"gun_bg_checks": 1253840}
+            ]
+        }
+    ]
+}

@@ -1,10 +1,5 @@
-{
-	"test_object":{
-		"test_sub_object":{
-			"description": "test_description",
-			"array": ["string_index", 1234, true, null]
-		}
-	},
+
+[{
 
 	"1999":{
 		"monthly_data":{
@@ -41,6 +36,7 @@
 			"dec": [1000962]
 		}
 	},
+
 
 	"2001":{
 		"monthly_data":{
@@ -399,7 +395,7 @@
 			"oct": null,
 			"nov": null,
 			"dec": null
+
 		}
 	}
-
-}
+	}]

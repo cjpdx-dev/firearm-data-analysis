@@ -1,0 +1,55 @@
+{
+    "year": 2017,
+
+	"monthly_data":[
+        {
+            "jan": [
+                {"gun_bg_checks": 2043184}
+            ],
+
+            "feb": [
+                {"gun_bg_checks": 2234817}
+            ],
+
+            "mar": [
+                {"gun_bg_checks": 2433092}
+            ],
+
+            "apr": [
+                {"gun_bg_checks": 2045564}
+            ],
+
+            "may": [
+                {"gun_bg_checks": 1942677}
+            ],
+
+            "jun": [
+                {"gun_bg_checks": 1901768}
+            ],
+
+            "jul": [
+                {"gun_bg_checks": 1742546}
+            ],
+
+            "aug": [
+                {"gun_bg_checks": 1925146}
+            ],
+
+            "sep": [
+                {"gun_bg_checks": 1967104}
+            ],
+
+            "oct": [
+                {"gun_bg_checks": 2030391}
+            ],
+
+            "nov": [
+                {"gun_bg_checks": 2382788}
+            ],
+
+            "dec": [
+                {"gun_bg_checks": 2586138}
+            ]
+        }
+    ]
+}
