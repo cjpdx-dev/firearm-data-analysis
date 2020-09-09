@@ -1,16 +1,24 @@
+from FDA_Dataset import FDA_Dataset
+
 import json
 
 from os import listdir
 from os.path import isfile, join
 
-import pandas as pd
 from pathlib import Path
+
 
 def main():
 
     json_dir = 'json/'
     json_file_names = get_json_file_names(json_dir)
     print(json_file_names)
+    
+    fda_dataset = FDA_Dataset(json_file_names)
+    fda_dataset.parse_json_files()
+    
+    fda_dataset.print_year_data(1999)
+
 
 def get_json_file_names(json_dir):
     '''
@@ -24,13 +32,13 @@ def get_json_file_names(json_dir):
     file_names = [f for f in listdir(json_dir) if isfile(join('json/', f))]
     json_file_names = [f for f in file_names if Path(f).suffix=='.json']
     
-    ignored_file_names = []
-    for fname in file_names:
-        if fname not in json_file_names:
-            ignored_file_names.append(fname)
+    ignored_files = []
+    for file_name in file_names:
+        if file_name not in json_file_names:
+            ignored_files.append(file_name)
 
-    # log this instead of printing it    
-    print(str(len(ignored_file_names)) + " file(s) ignored: " + str(ignored_file_names))
+    # FIXME: log this instead of printing it 
+    print(str(len(ignored_files)) + " file(s) ignored: " + str(ignored_files))
 
     json_file_names.sort()
 
