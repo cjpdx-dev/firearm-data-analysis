@@ -2,6 +2,8 @@ from FDA_Dataset import FDA_Dataset
 
 import json
 
+import matplotlib.pyplot as plt
+
 from os import listdir
 from os.path import isfile, join
 
@@ -15,10 +17,11 @@ def main():
     print(json_file_names)
     
     fda_dataset = FDA_Dataset(json_file_names)
-    fda_dataset.parse_json_files()
-    
-    fda_dataset.print_year_data(1999)
-
+    print(fda_dataset.check_exist())
+    # a simple test 
+    plt.plot([1,2,3,4])
+    plt.ylabel('some numbers')
+    plt.show()
 
 def get_json_file_names(json_dir):
     '''

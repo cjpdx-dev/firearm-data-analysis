@@ -7,12 +7,19 @@ import pandas as pd
 class FDA_Year:
 
     def __init__(self, json_data):
+        
         self.json_data = json_data
-
+        self.year_value = str(self.json_data["year_value"])
+        
     def get_year_value(self):
         
-        return self.json_data["year"]
+        return self.year_value
 
-    def get_year_data(self):
+    def get_all_data(self):
 
         return self.json_data
+
+    def get_monthly_data(self):
+
+        pass
+
